@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Sneha%20Tiwari&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=✦%20fullstack%20developer%20✦%20hackathon%20winner%20✦%20india&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Sneha%20Tiwari&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=✦%20fullstack%20developer%20✦%20india&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
