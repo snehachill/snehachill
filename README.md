@@ -1,158 +1,210 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Sneha%20Tiwari&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=✦%20fullstack%20developer%20✦%20india&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:1a0a3e,70:3b1fa8,100:6c63ff&height=230&section=header&text=SNEHA%20TIWARI&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=🚀%20MERN%20Dev%20·%20Hackathon%20Menace%20·%20AI%20Whisperer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=🌌+Welcome+to+my+corner+of+the+universe!;🚀+Shipping+Full-Stack+apps+at+warp+speed;🤖+Built+an+AI+that+keeps+secrets+🤫;🏆+Hackathon+Finalist+·+500%2B+teams+defeated;⚠️+Side+effect%3A+may+refactor+your+codebase)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6c63ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi!-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehatiwari3124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@snehachill-3b1fa8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehachill)
+[![Profile Views](https://komarev.com/ghpvc/?username=snehachill&style=for-the-badge&color=6c63ff&label=EXPLORERS+VISITED)](https://github.com/snehachill)
+
+![Currently](https://img.shields.io/badge/🛰️_Currently-Building_something_unhinged-050510?style=for-the-badge&labelColor=6c63ff)
 
 </div>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=hey+there!+i'm+sneha+%F0%9F%91%8B;building+things+that+actually+matter+%E2%9A%A1" alt="Typing SVG" />
+## 🪐 Mission Control — `about.js`
 
-</div>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260px"/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneha@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehachill)
-![Profile Views](https://komarev.com/ghpvc/?username=snehachill&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<img align="right" alt="coding gif" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### 👩‍💻 &nbsp;about me
-
-- 🔨 &nbsp;building **peer-to-peer fullstack apps** with realtime features
-- 🏆 &nbsp;**1st place @ thrillix 2024** · top 10 across multiple national hackathons
-- ⚡ &nbsp;deep into **Next.js 15 · Socket.io · MongoDB · Server Actions**
-- 🌱 &nbsp;currently exploring **realtime systems & scalable architecture**
-- ✨ &nbsp;obsessed with clean UI meets robust backend
-- 📫 &nbsp;reach me → **snehachill** on GitHub
+```javascript
+const sneha = {
+  location    : "Maharashtra, India 🇮🇳",
+  education   : "B.Sc CS @ AKS University (2027)",
+  status      : "perpetually building something",
+  superpower  : "turns ☕ into shipped features",
+  socialLife  : null,   // hackathon season never ends
+  bugs        : false,  // (she says)
+  funFact     : "built an AI that keeps secrets 🤫",
+  warnings    : [
+    "may spontaneously refactor your codebase",
+    "will suggest Socket.io for everything",
+    "commits messages just say 'fix'"
+  ],
+  openTo      : ["Internships", "Collabs", "Hackathons 🏆"],
+}
+// ⚠️ Proceed with awe
+```
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🛠️ &nbsp;tech stack
+## 🛸 Tech Universe — `stack.json`
 
 <div align="center">
 
-**Frontend**
+### 🌟 Frontend Constellation
+![React](https://img.shields.io/badge/React-6c63ff?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%2015-6c63ff?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-6c63ff?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-6c63ff?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6c63ff?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-6c63ff?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6c63ff?style=for-the-badge&logo=css3&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-6c63ff?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### ⚡ Backend Nebula
+![Node.js](https://img.shields.io/badge/Node.js-A78BFA?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-A78BFA?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-A78BFA?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-A78BFA?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-A78BFA?style=for-the-badge&logo=next.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-A78BFA?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Backend & Realtime**
+### 🌀 Database & Tools Galaxy
+![MongoDB](https://img.shields.io/badge/MongoDB-3b1fa8?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-3b1fa8?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b1fa8?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-3b1fa8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3b1fa8?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-3b1fa8?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-3b1fa8?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-3b1fa8?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-3b1fa8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-7c3aed?style=for-the-badge&logo=next.js&logoColor=white)
+</div>
 
-**Database & ORM**
+<sub align="center">↑ color-coded to the header gradient on purpose, because chaos still needs a system</sub>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Tools**
+## 🚀 Launchpad — `projects/`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
+
+| # | Project | Mission | Stack | Status |
+|---|---------|---------|-------|--------|
+| 01 | 🔄 **[Devswap](https://github.com/snehachill/devswap)** | P2P real-time skill exchange & mentor discovery platform | `Next.js 15` `Socket.io` `NextAuth` `MongoDB` `Shadcn UI` | 🟢 Live |
+| 02 | 🤖 **[Asha AI](https://github.com/snehachill)** | Conversational AI assistant with persistent session memory | `MERN Stack` | 🟢 Live |
+| 03 | 🛠️ **[Warranty Vault](https://github.com/snehachill)** | End-to-end electronics repair & warranty workflow tracker with 3 dashboards | `React` `Express` `MongoDB` `Tailwind` | 🟢 Live |
+| 04 | 🔐 **[Password Manager](https://github.com/snehachill)** | Secure full-stack CRUD credential vault with real-time UI updates | `React` `Node.js` `MongoDB` `Mongoose` | 🟢 Live |
+| 05 | 📄 **[Resume Analyzer](https://github.com/snehachill/resume-analyzer)** | Client-side resume parser with instant keyword optimization feedback | `Vanilla JS` `HTML5` `CSS3` | 🟢 Live |
+
+</div>
+
+> 💀 **Fun fact:** All 5 projects were built while simultaneously preparing for hackathons. Sleep is optional apparently.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Hall of Fame — `wins.log`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              🌌  ACHIEVEMENT LOG — CERTIFIED MENACE  🌌          ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🥇  1st Place      →  Thrillx Hackathon                  2024  ║
+║  🏅  Top 10 / 500+  →  Asha AI Hackathon                  2025  ║
+║  🎯  Finalist/500+  →  Hackbyte 4.0                       2026  ║
+║  🎯  Finalist       →  Odoo Hackathon                     2026  ║
+║  💚  Contributor    →  GirlScript Summer of Code (GSSoC)  2026  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=snehachill&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
+
+> ⚠️ Competed in **5 hackathons**. Won 1st. Made top 10 twice. Still finds time to push code daily. Unhinged. Unstoppable.
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📡 Deep Space Stats — `stats.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snehachill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff" height="175"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehachill&theme=tokyonight&hide_border=true&background=050510&ring=6c63ff&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehachill&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&text_color=c9d1d9" height="155"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehachill&theme=tokyo-night&bg_color=050510&color=A78BFA&line=6c63ff&point=ffffff&hide_border=true" width="95%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👾 Arcade Mode — `contribution.exe`
+
+<div align="center">
+
+**🐍 Snake**
+<br/>
+<img src="https://raw.githubusercontent.com/snehachill/snehachill/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<br/><br/>
+
+**👻 Pac-Man**
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehachill/snehachill/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/snehachill/snehachill/output/pacman-contribution-graph.svg" width="90%"/>
+</picture>
+
+<sub>(both need a couple-minute GitHub Action setup in your `snehachill/snehachill` repo to actually render — snake uses `Platane/snk`, Pac-Man uses `abozanona/pacman-contribution-graph`. Add both as separate steps in one workflow file, they each write their own SVG to the `output` branch so they won't clash.)</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌠 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 ---
 
-### 🚀 &nbsp;featured project
-
 <div align="center">
 
-<a href="https://github.com/snehachill/devswap">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=snehachill&repo=devswap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
-</a>
+### 🛸 Let's build something absolutely unhinged together
 
-</div>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
 
 <br/>
 
-> 🔄 **DevSwap** — *"barter system for students — no money, just knowledge"*
-
-A **peer-to-peer skill exchange platform** where students trade skills instead of money. Teach someone React, learn UI/UX in return.
-
-| 🧩 Layer | 🛠️ Tech Used |
-|---|---|
-| Frontend | Next.js 15 · Tailwind CSS · Server Actions |
-| Auth | NextAuth.js · Google & GitHub OAuth |
-| Database | MongoDB Atlas · Mongoose ODM |
-| Realtime | Socket.io WebSocket live messaging |
-
 ```
-✅ Peer-to-peer skill matching
-✅ Realtime chat (Socket.io)
-✅ Google & GitHub OAuth
-✅ Swap request system
+git clone https://github.com/snehachill
+cd sneha
+npm install awesomeness
+npm run ship-it 🚀
 ```
-
----
-
-### 🏆 &nbsp;achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=snehachill&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)
-
-</div>
 
 <br/>
 
-```
-🥇  1st place   →  Thrillix Hackathon 2024
-🏅  Top 10      →  HackByte 4.0
-🏅  Top 10      →  Asha AI Hackathon
-🏅  Top 10      →  Odoo Hackathon
-🏆  Winner      →  SIH Internal Hackathon
-```
+> *"The universe is under no obligation to make sense to you — but your code should."* 🌌
 
----
+<br/>
 
-### 📊 &nbsp;github stats
+![Star](https://img.shields.io/badge/⭐_If_this_made_you_smile-Star_a_repo-6c63ff?style=for-the-badge)
 
-<div align="center">
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehachill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehachill&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=snehachill&theme=tokyonight&hide_border=true&background=0D1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehachill&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**"no money, just knowledge — and a few more hackathon wins on the way"** ✨
-
-⭐ *If you like my work, consider starring my repos!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:3b1fa8,100:050510&height=130&section=footer" width="100%"/>
 
 </div>
