@@ -151,12 +151,6 @@ const sneha = {
 
 <div align="center">
 
-**🐍 Snake**
-<br/>
-<img src="https://raw.githubusercontent.com/snehachill/snehachill/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-
-<br/><br/>
-
 **👻 Pac-Man**
 <br/>
 <picture>
@@ -164,7 +158,7 @@ const sneha = {
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/snehachill/snehachill/output/pacman-contribution-graph.svg" width="90%"/>
 </picture>
 
-<sub>(both need a couple-minute GitHub Action setup in your `snehachill/snehachill` repo to actually render — snake uses `Platane/snk`, Pac-Man uses `abozanona/pacman-contribution-graph`. Add both as separate steps in one workflow file, they each write their own SVG to the `output` branch so they won't clash.)</sub>
+<sub>(needs the `abozanona/pacman-contribution-graph` GitHub Action set up in your `snehachill/snehachill` repo to actually render.)</sub>
 
 </div>
 
