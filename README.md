@@ -26,7 +26,7 @@
 ```javascript
 const sneha = {
   location    : "Maharashtra, India 🇮🇳",
-  education   : "B.Sc CS @ AKS University (2027)",
+  education   : "B.Tech CSE @ AKS University (2027)",
   status      : "perpetually building something",
   superpower  : "turns ☕ into shipped features",
   socialLife  : null,   // hackathon season never ends
