@@ -39,7 +39,7 @@ const sneha = {
   ],
   openTo      : ["Internships", "Collabs", "Hackathons 🏆"],
 }
-// ⚠️ Proceed with awe
+
 ```
 
 <br clear="right"/>
@@ -80,8 +80,6 @@ const sneha = {
 ![VS Code](https://img.shields.io/badge/VS_Code-3b1fa8?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
-
-<sub align="center">↑ color-coded to the header gradient on purpose, because chaos still needs a system</sub>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -158,7 +156,6 @@ const sneha = {
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/snehachill/snehachill/output/pacman-contribution-graph.svg" width="90%"/>
 </picture>
 
-<sub>(needs the `abozanona/pacman-contribution-graph` GitHub Action set up in your `snehachill/snehachill` repo to actually render.)</sub>
 
 </div>
 
