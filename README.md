@@ -29,8 +29,8 @@ const sneha = {
   education   : "B.Tech CSE @ AKS University (2027)",
   status      : "perpetually building something",
   superpower  : "turns ☕ into shipped features",
-  socialLife  : null,   // hackathon season never ends
-  bugs        : false,  // (she says)
+  socialLife  : null,  
+  bugs        : false, 
   funFact     : "built an AI that keeps secrets 🤫",
   warnings    : [
     "may spontaneously refactor your codebase",
