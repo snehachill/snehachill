@@ -6,39 +6,23 @@ on:
   workflow_dispatch:          # lets you trigger it manually too
 
 jobs:
-  snake:
+  generate-pacman:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: snehachill
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Push snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  pacman:
-    needs: snake
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
+      # Generate pacman animation
       - name: Generate pacman animation
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: snehachill
 
-      - name: Push pacman SVG to output branch
+      # Push pacman SVG to output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
