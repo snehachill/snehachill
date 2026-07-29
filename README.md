@@ -129,17 +129,21 @@ const sneha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snehachill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff" height="175"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=snehachill&theme=tokyonight&hide_border=true&background=050510&ring=6c63ff&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9" height="175"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=snehachill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&icon_color=6c63ff&text_color=c9d1d9&ring_color=6c63ff&v=2" height="175" alt="Sneha's GitHub Stats" />
+  &nbsp;
+  <!-- GitHub Streak Stats (Bypassing GitHub's cache) -->
+  <img src="https://streak-stats.demolab.com/?user=snehachill&theme=tokyonight&hide_border=true&background=050510&ring=6c63ff&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9&v=2" height="175" alt="Sneha's Streak Stats" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehachill&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&text_color=c9d1d9" height="155"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=snehachill&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&text_color=c9d1d9&v=2" height="165" alt="Top Languages" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehachill&theme=tokyo-night&bg_color=050510&color=A78BFA&line=6c63ff&point=ffffff&hide_border=true" width="95%"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehachill&theme=tokyo-night&bg_color=050510&color=A78BFA&line=6c63ff&point=ffffff&hide_border=true&v=2" width="95%" alt="Activity Graph" />
 
 </div>
 
