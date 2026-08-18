@@ -1,0 +1,51 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"        # runs daily at midnight UTC
+  workflow_dispatch:            # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-readme-stats.yml"
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&icon_color=6c63ff&text_color=c9d1d9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A78BFA&text_color=c9d1d9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&hide_border=true&background=050510&ring=6c63ff&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=c9d1d9
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "chore: update README stats cards"
+          git push
